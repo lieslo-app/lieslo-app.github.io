@@ -23,6 +23,9 @@ Hier darf nichts Geheimes hinein: kein Code der App, keine Schlüssel, keine Pas
 ## Gut zu wissen
 
 - Deutsche Seiten: `index.html`, `hilfe.html`; englische: `en/index.html`, `en/help.html`.
+- Persönliche Angaben: im Impressum nur einmal am Seitenende (DE+EN gemeinsam), in der Datenschutzerklärung
+  als letzter Abschnitt „Verantwortlicher“ (ohne Telefon). E-Mail/Telefon als HTML-Zeichen-Codes schreiben,
+  Impressum und Datenschutz haben `noindex`.
   `datenschutz.html` und `impressum.html` enthalten beide Sprachen.
 - Bei Änderungen der App (Berechtigungen, Speicherdauer, Menünamen) auch Hilfe und Datenschutz anpassen
   und in der Datenschutzerklärung das Datum „Stand“ aktualisieren.
